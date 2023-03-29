@@ -1,5 +1,3 @@
-// T10_A0239855M
-
 import java.util.*;
 import java.io.*;
 import java.lang.*;

@@ -1,5 +1,3 @@
-// A0239855M
-
 #include <bits/stdc++.h>
 #include <iostream>
 #include <string>
